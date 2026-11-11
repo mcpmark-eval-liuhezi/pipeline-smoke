@@ -1,4 +1,4 @@
-name: smoke
+name: Smoke CI
 
 on:
   workflow_dispatch:
@@ -7,5 +7,5 @@ jobs:
   hello:
     runs-on: ubuntu-latest
     steps:
-      - name: Say hello
-        run: echo "hello from the pipeline-smoke drill"
+      - name: Greet
+        run: echo "Hello from pipeline-smoke CI!"
