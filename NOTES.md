@@ -1,1 +1,3 @@
-This drill proves I can push a change all the way through the branch → pull request → merge → Actions loop on my own.
+# Smoke Notes
+
+This file exists to prove a feature branch, a pull request, and a squash merge all work end-to-end.
