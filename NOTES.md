@@ -1,3 +1,3 @@
-# NOTES
+# Notes
 
-This file was added on a short-lived feature branch to demonstrate the pull-request-and-GitHub-Actions loop end to end.
+This file was added during a smoke test to prove the GitHub pull-request and Actions loop works end to end.
