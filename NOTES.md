@@ -1,3 +1,3 @@
-# NOTES
+# Notes
 
-This file was added during a smoke test to verify the full GitHub loop: feature branch -> pull request -> squash merge -> manual GitHub Actions dispatch.
+This file was added during a smoke test to validate the pull request and GitHub Actions loop end-to-end.
