@@ -1,3 +1,3 @@
-# Smoke Drill Notes
+# NOTES
 
-This file was added during a live pull-request and GitHub Actions drill to verify the full loop: branch -> PR -> merge (squash) -> manual workflow dispatch trigger.
+This file was added during a smoke test to verify the full GitHub loop: feature branch -> pull request -> squash merge -> manual GitHub Actions dispatch.
