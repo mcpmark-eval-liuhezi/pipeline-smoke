@@ -1,3 +1,3 @@
-# Smoke Notes
+# Smoke Test Notes
 
-This file exists to prove a feature branch, a pull request, and a squash merge all work end-to-end.
+This file was added on a short-lived feature branch to prove the full pull-request-and-Actions loop: branch -> code change -> pull request -> squash merge -> manually triggered GitHub Actions run.
