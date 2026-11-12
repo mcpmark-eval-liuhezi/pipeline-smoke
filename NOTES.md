@@ -1,3 +1,3 @@
-# Notes
+# Smoke Drill Notes
 
-This file was added on a short-lived feature branch to demonstrate the pull-request-and-GitHub-Actions loop end to end: branch -> commit -> pull request -> squash merge -> manual workflow dispatch.
+This file was added during a live pull-request and GitHub Actions drill to verify the full loop: branch -> PR -> merge (squash) -> manual workflow trigger.
