@@ -1,3 +1,3 @@
 # Smoke Test Notes
 
-This file was added via a short-lived feature branch to prove the pull-request-and-Actions loop works end to end.
+This file was added on the smoke-forms branch to prove that a trivial change can be pushed, opened as a pull request, squash-merged, and verified with a manually triggered GitHub Actions workflow.
