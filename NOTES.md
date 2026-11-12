@@ -1,3 +1,3 @@
-# Smoke Test Notes
+# NOTES
 
-This file was added on the smoke-forms branch to prove that a trivial change can be pushed, opened as a pull request, squash-merged, and verified with a manually triggered GitHub Actions workflow.
+This file was added on a short-lived feature branch to demonstrate the pull-request-and-GitHub-Actions loop end to end.
