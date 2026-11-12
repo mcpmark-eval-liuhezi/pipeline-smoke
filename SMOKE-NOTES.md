@@ -1,3 +1,3 @@
-# Smoke Repeat Notes
+# Smoke Test Notes
 
-This file exists only to prove the full PR + Actions loop works end to end on my own: feature branch → code change → pull request → squash merge → manually triggered workflow run.
+This file was added on a short-lived feature branch to prove the pull-request-and-Actions loop works end-to-end for the portfolio review drill.
